@@ -924,7 +924,7 @@ nav h1 {
 }
 
 .project-description {
-    color: #9A9A9A;
+    color: #9A9A9A !important;
 }
 
 /*.overlay-view h3 {
